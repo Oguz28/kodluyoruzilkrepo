@@ -18,8 +18,7 @@ cd kodluyoruzilkrepo
 code . 
 ```
 ## ScreenShot
-![Proje Görseli]
-(Screenshot.png)
+![Proje Görseli](https://github.com/Oguz28/kodluyoruzilkrepo/blob/main/Screenshot.png)
 
 ## Contributing
 "Pull requestler" kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
